@@ -1,0 +1,6 @@
+spring:
+  redis:
+    password:
+
+os:
+  config: Windows
